@@ -16,3 +16,10 @@ PASSOS PARA RODAR O PROJETO
 9. Ao informar os dados acima, clicar em Send e observar o retorno em formato JSON no ResponseBody.
 
 OBS: Os dados enviados no RequestBody podem ser alterados, contanto que sigam os tipos de dados pré-definidos. (long, String, double, int)
+
+=======================
+======= ATENÇÃO =======
+=======================
+
+O commit do projeto foi feito através da máquina local para o repositório do GitHub SEM O .gitignore o que acarretou no commit de TODOS OS ARQUIVOS
+incluídos no projeto.
